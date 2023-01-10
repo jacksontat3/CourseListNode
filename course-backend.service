@@ -5,7 +5,7 @@ After=network.target
 [Service]
 Type=simple
 User=ubuntu
-WorkingDirectory=/home/ubuntu/nodeapps/courselist/
+WorkingDirectory=/home/ubuntu/nodeapps/2022/jacksonbackend
 ExecStart=/usr/bin/npm run start
 Restart=on-failure
  
