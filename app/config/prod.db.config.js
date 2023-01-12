@@ -1,6 +1,6 @@
 module.exports = {
     HOST: 'project2.eaglesoftwareteam.com',
-    port: 3306,
+    port: 3027,
     USER: 't52022',
     PASSWORD: 'cs@oc2022t5',
     DB: 'tate_courses',
