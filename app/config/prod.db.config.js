@@ -1,9 +1,9 @@
 module.exports = {
-    HOST: 't0-database.czjofbims6cw.us-west-2.rds.amazonaws.com',
+    HOST: 'project2.eaglesoftwareteam.com',
     port: 3306,
-    USER: 'admin',
-    PASSWORD: 'passwordt0',
-    DB: 'course',
+    USER: 't52022',
+    PASSWORD: 'cs@oc2022t5',
+    DB: 'tate_courses',
     dialect: 'mysql',
     pool: {
         max: 5,
