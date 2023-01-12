@@ -8,5 +8,5 @@ module.exports = app => {
     router.put("/:id", courses.update);
     router.delete("/:id", courses.delete);
 
-    app.use('/courselist/courses', router);   
+    app.use('/course-jt/courses', router);   
 };
